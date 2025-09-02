@@ -18,6 +18,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
 </div>
 
 ###
